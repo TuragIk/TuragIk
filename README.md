@@ -9,9 +9,12 @@ With my passions in cybersecurity and AI/ML, I am to develop solutions to bridge
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-
+| Skill                                         | Associated Project                                                                          |
+|-----------------------------------------------|--------------------------------------------------------------------------------------------|
+| SIEM Implementation and Log Analysis          | [Home Lab](https://github.com/TuragIk/Home-Lab)                              |
+| Network Traffic Monitoring and Analysis       | [Home Lab](https://github.com/TuragIk/Home-Lab)                              |
+| Network Design and Simulation                 | Packet Tracer Project (Coming Soon)                                                       |
+| Cloud-powered Red Team Simulation             | Cloud Attack/Defense Simulator (Coming Soon)                                              |
 ## Tools
 
 ### Network  
