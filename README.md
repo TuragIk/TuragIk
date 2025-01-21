@@ -14,7 +14,7 @@ With my passions in cybersecurity and AI/ML, I am to develop solutions to bridge
 | Skill                                         | Associated Project                                                                          |
 |-----------------------------------------------|--------------------------------------------------------------------------------------------|
 | SIEM Implementation and Log Analysis          | [Home Lab](https://github.com/TuragIk/Home-Lab)                              |
-| Network Traffic Monitoring and Analysis       | [Home Lab](https://github.com/TuragIk/Home-Lab)                              |
+| Network Traffic Monitoring and Analysis       | [Network Analysis Project](https://github.com/TuragIk/network-analysis-project)                              |
 | Network Design and Simulation                 | Packet Tracer Project (Coming Soon)                                                       |
 | Cloud-powered Red Team Simulation             | Cloud Attack/Defense Simulator (Coming Soon)                                              |
 | Browser-Based Security Tools                  | [Fortigate ASN Search](https://github.com/TuragIk/fortigate-asn-search)                  |
@@ -71,6 +71,11 @@ Currently building GitHub projects to showcase expertise in these languages.
 - **Skills**: Browser-based security tools, JavaScript programming, and data filtering.  
 - **GitHub**: [FortiGate ASN Search](https://github.com/TuragIk/fortigate-asn-search)  
 - **Demo**: [Live Demo](https://turagik.github.io/fortigate-asn-search/)
+
+### Network Analysis Project
+-  **Description**: A network traffic analysis project utilizing tcpdump and Wireshark in a controlled home lab environment.
+-  **Skills**: Packet analysis, traffic capture with tcpdump, Wireshark analysis, and HTTP server configuration.
+-  **GitHub**: [Network Analysis Project](https://github.com/TuragIk/network-analysis-project/)
 
 ### Network Configuration in Cisco Packet Tracer  
 - **Description**: Simulated network topologies including LAN, WAN, and wireless networks. Troubleshot issues and tested realistic attacks.  
