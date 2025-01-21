@@ -36,6 +36,7 @@ Currently building GitHub projects to showcase expertise in these languages.
 ### Network  
 <div> 
 <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a> 
+<a href="https://www.tcpdump.org/" target="_blank"><img src="https://img.shields.io/badge/-tcpdump-005571?&style=for-the-badge&logo=Tcpdump&logoColor=white" /></a>
 <a href="https://suricata.io/" target="_blank"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /></a> 
 <a href="https://zeek.org/" target="_blank"><img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /></a> 
 </div>
