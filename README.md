@@ -3,9 +3,11 @@
 
 I am a sophmore computer science major studying at UMass Amherst with a profound interest in technology and a dedication to solving complex problems.
 
+
 ## Objective
 
 With my passions in cybersecurity and AI/ML, I am to develop solutions to bridge the gap between security and innovation. Through my studies, skills, projects, and research, I strive to create an impact on the fields of technology and cybersecurity. I am eager to begin transitioning into the field of cybersecurity, specifically aiming for an internship in the field.
+
 
 ## Skills
 
@@ -15,6 +17,20 @@ With my passions in cybersecurity and AI/ML, I am to develop solutions to bridge
 | Network Traffic Monitoring and Analysis       | [Home Lab](https://github.com/TuragIk/Home-Lab)                              |
 | Network Design and Simulation                 | Packet Tracer Project (Coming Soon)                                                       |
 | Cloud-powered Red Team Simulation             | Cloud Attack/Defense Simulator (Coming Soon)                                              |
+| Browser-Based Security Tools                  | [Fortigate ASN Search](https://github.com/TuragIk/fortigate-asn-search)                  |
+
+### Programming Languages
+- **Python**: Data analysis, scripting, and cybersecurity automation.
+- **C**: System-level programming and performance-critical applications.
+- **Java**: Object-oriented programming and software development.
+- **C#**: Game development and software engineering fundamentals.
+- **TypeScript/Node.js**: Building scalable web applications.
+- **HTML/CSS/JavaScript**: Front-end development.
+- **SQL**: Database querying and management.
+
+Currently building GitHub projects to showcase expertise in these languages.
+
+
 ## Tools
 
 ### Network  
@@ -50,4 +66,26 @@ With my passions in cybersecurity and AI/ML, I am to develop solutions to bridge
 - **Skills**: SIEM analysis, network traffic monitoring, and attack detection.  
 - **GitHub**: [Home Lab]([https://github.com/Turag-Ikbal/detection-lab)](https://github.com/TuragIk/Home-Lab)
 
+### FortiGate ASN Search  
+- **Description**: A browser-based tool to search leaked FortiGate firewall configurations by ASN. Created to help organizations quickly determine if they were affected.  
+- **Skills**: Browser-based security tools, JavaScript programming, and data filtering.  
+- **GitHub**: [FortiGate ASN Search](https://github.com/TuragIk/fortigate-asn-search)  
+- **Demo**: [Live Demo](https://turagik.github.io/fortigate-asn-search/)
+
+### Network Configuration in Cisco Packet Tracer  
+- **Description**: Simulated network topologies including LAN, WAN, and wireless networks. Troubleshot issues and tested realistic attacks.  
+- **Skills**: Protocol analysis, traffic management, and performance tuning.  
+- **GitHub**: (Coming Soon)
+
+### AI Research in Cybersecurity  
+- **Description**: Collaborating with a Ph.D. student in the Secure, Private Internet (SPIN) Research Group at UMass Amherst to explore the applications of LLMs and Generative AI in cybersecurity. Deliverables include a survey paper and poster summarizing findings.  
+- **Skills**: Research, LLMs, and Generative AI.  
+- **Status**: Ongoing
+
   
+## Certifications
+
+- **Career Essentials in Cybersecurity by Microsoft and LinkedIn**: Fundamentals of network security, threat management, and incident response.
+- **Foundational C# with Microsoft**: Basics of C#, including OOP, data structures, and algorithms.
+- **Microsoft Cybersecurity Analyst Professional Certificate**: Comprehensive knowledge of security frameworks and tools, including penetration testing.
+- **Upcoming**: Microsoft SC-900 Security, Compliance, and Identity Fundamentals Exam.
