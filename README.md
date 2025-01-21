@@ -64,7 +64,7 @@ Currently building GitHub projects to showcase expertise in these languages.
 ### Home Lab  
 - **Description**: A cybersecurity-focused lab environment designed for SIEM and network traffic monitoring.  
 - **Skills**: SIEM analysis, network traffic monitoring, and attack detection.  
-- **GitHub**: [Home Lab]([https://github.com/Turag-Ikbal/detection-lab)](https://github.com/TuragIk/Home-Lab)
+- **GitHub**: [Home Lab](https://github.com/TuragIk/Home-Lab/)
 
 ### FortiGate ASN Search  
 - **Description**: A browser-based tool to search leaked FortiGate firewall configurations by ASN. Created to help organizations quickly determine if they were affected.  
