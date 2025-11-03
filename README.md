@@ -14,8 +14,6 @@ With my passions in cybersecurity and AI/ML, I am working to develop solutions t
 |-----------------------------------------------|--------------------------------------------------------------------------------------------|
 | SIEM Implementation and Log Analysis          | [Home Lab](https://github.com/TuragIk/Home-Lab)                              |
 | Network Traffic Monitoring and Analysis       | [Network Analysis Project](https://github.com/TuragIk/network-analysis-project)                              |
-| Network Design and Simulation                 | Packet Tracer Project (Coming Soon)                                                       |
-| Cloud-powered Red Team Simulation             | Cloud Attack/Defense Simulator (Coming Soon)                                              |
 | Browser-Based Security Tools                  | [Fortigate ASN Search](https://github.com/TuragIk/fortigate-asn-search)                  |
 
 ### Programming Languages
@@ -72,20 +70,18 @@ Currently building GitHub projects to showcase expertise in these languages.
 - **GitHub**: [FortiGate ASN Search](https://github.com/TuragIk/fortigate-asn-search)  
 - **Demo**: [Live Demo](https://turagik.github.io/fortigate-asn-search/)
 
-### Network Analysis Project
--  **Description**: A network traffic analysis project utilizing tcpdump and Wireshark in a controlled home lab environment.
--  **Skills**: Packet analysis, traffic capture with tcpdump, Wireshark analysis, and HTTP server configuration.
--  **GitHub**: [Network Analysis Project](https://github.com/TuragIk/network-analysis-project/)
+## Research
 
-### Network Configuration in Cisco Packet Tracer  
-- **Description**: Simulated network topologies including LAN, WAN, and wireless networks. Troubleshot issues and tested realistic attacks.  
-- **Skills**: Protocol analysis, traffic management, and performance tuning.  
-- **GitHub**: (Coming Soon)
+### UMass URV AI in Cybersecurtiy Research
+- **Description**: Collaborated with two undergraduate students under the supervision of a Ph.D student in the Secure, Private Internet (SPIN) Research Group at UMass Amherst to explore the applications of LLMs and Generative AI in cybersecurity. Deliverables include a survey paper outline and poster summarizing findings.  
+- **Skills**: Research, LLMs, and Generative AI.
+- **GitHub**: [URV-AI-Cybersecurity-Research](https://github.com/TuragIk/urv-ai-cybersecurity-research)
 
-### AI Research in Cybersecurity  
-- **Description**: Collaborating with a Ph.D. student in the Secure, Private Internet (SPIN) Research Group at UMass Amherst to explore the applications of LLMs and Generative AI in cybersecurity. Deliverables include a survey paper and poster summarizing findings.  
-- **Skills**: Research, LLMs, and Generative AI.  
-- **Status**: Ongoing
+### Threats and Defenses of Backdoor Attacks in Machine Learning
+- **Description**: Collaborated with a friend to create a survey paper of the threats and defenses of backdoor attacks in the field of machine learning
+- **Skills**: Research, Machine Learning, Collaboration
+- **GitHub**: [Threats and Defenses of Backdoor Attacks in Machine Learning](https://github.com/roheetyeet/backdoor-attacks-defenses-survey)
+- **Research Paper**: [View the paper (PDF)](https://drive.google.com/file/d/1Kg4EjXJtlodbsPLTIkcdTLqTY3EsOfGj/view)
 
   
 ## Certifications
