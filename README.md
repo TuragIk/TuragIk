@@ -1,12 +1,11 @@
 # Hello, I'm Turag Ikbal
 <a href="https://www.linkedin.com/in/turag-ikbal-aa2ba116b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a sophmore computer science major studying at UMass Amherst with a profound interest in technology and a dedication to solving complex problems.
-
+I am a senior computer science major at UMass Amherst with a conditional acceptance to the M.S. in Computer Science program. My academic journey reflects a deep interest in technology and a commitment to solving complex problems through research and practical application.
 
 ## Objective
 
-With my passions in cybersecurity and AI/ML, I am to develop solutions to bridge the gap between security and innovation. Through my studies, skills, projects, and research, I strive to create an impact on the fields of technology and cybersecurity. I am eager to begin transitioning into the field of cybersecurity, specifically aiming for an internship in the field.
+With my passions in cybersecurity and AI/ML, I am working to develop solutions to bridge the gap between security and innovation. Through my studies, skills, projects, and research, I strive to create an impact on the fields of technology and cybersecurity. I am eager to begin transitioning into the field of cybersecurity, specifically aiming for an internship in the field.
 
 
 ## Skills
