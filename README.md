@@ -56,6 +56,14 @@ Currently building GitHub projects to showcase expertise in these languages.
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /></a> 
 </div>
 
+## Experience
+
+### Research and Technology Analyst Intern @ K logix
+- _June 2025 - Present_
+- Research marketspaces in cybersecurity softwares and conduct evaluations on customer behalf to best select a product
+- Created a list of 150+ requirements for DSPM products, and evaluated 6 vendors against said requirements
+- Currently working on creating AI education for members of K logix and customers to better understand AI in cybersecurity
+- Currently working on going back through existing data for marketspaces and evaluating where AI has been used and where it is likely to go in the near future
 
 ## Projects
 
