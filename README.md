@@ -78,6 +78,11 @@ Currently building GitHub projects to showcase expertise in these languages.
 - **GitHub**: [FortiGate ASN Search](https://github.com/TuragIk/fortigate-asn-search)  
 - **Demo**: [Live Demo](https://turagik.github.io/fortigate-asn-search/)
 
+### NeetCode 150 – Daily Practice & Feynman Explanations  
+- **Description**: A repository tracking my daily progress through the NeetCode 150 problems, focusing on data structures, algorithms, and clear Feynman-style explanations for each solution. Designed to build a deep understanding of core concepts while maintaining coding consistency.  
+- **Skills**: Python, Algorithms, Data Structures, Problem Solving, Technical Communication  
+- **GitHub**: [NeetCode 150 Solutions](https://github.com/TuragIk/neetcode-150-solutions)
+
 ## Research
 
 ### UMass URV AI in Cybersecurtiy Research
