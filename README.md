@@ -1,87 +1,66 @@
 # Hello, I'm Turag Ikbal
 <a href="https://www.linkedin.com/in/turag-ikbal-aa2ba116b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a senior computer science major at UMass Amherst with a conditional acceptance to the M.S. in Computer Science program. My academic journey reflects a deep interest in technology and a commitment to solving complex problems through research and practical application.
-
-## Objective
-
-With my passions in cybersecurity and AI/ML, I am working to develop solutions to bridge the gap between security and innovation. Through my studies, skills, projects, and research, I strive to create an impact on the fields of technology and cybersecurity. I am eager to begin transitioning into the field of cybersecurity, specifically aiming for an internship in the field.
+I am a senior computer science major at UMass Amherst with a reserved seat to the 4+1 M.S. in Computer Science program starting Fall 2026. My work focuses on the intersection of Cybersecurity and AI, ranging from market research to building automated security platforms.
 
 
-## Skills
+## Skills & Projects
 
-| Skill                                         | Associated Project                                                                          |
-|-----------------------------------------------|--------------------------------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis          | [Home Lab](https://github.com/TuragIk/Home-Lab)                              |
-| Network Traffic Monitoring and Analysis       | [Network Analysis Project](https://github.com/TuragIk/network-analysis-project)                              |
-| Browser-Based Security Tools                  | [Fortigate ASN Search](https://github.com/TuragIk/fortigate-asn-search)                  |
+| Skill                                   | Associated Project                                                                           |
+|-----------------------------------------|----------------------------------------------------------------------------------------------|
+| **AI-Powered CVE Analysis** | [VulnBuddy](https://github.com/turagik/VulnBuddy)                            |
+| **SIEM & Log Correlation** | [Home Lab](https://github.com/turagik/Home-Lab)                           |
+| **Automated Vulnerability Scanning**  | [VulnBuddy](https://github.com/turagik/VulnBuddy)                                |
+| **Network Traffic Monitoring** | [Network Analysis Lab](https://github.com/TuragIk/network-analysis-project)                                |
+| **OSINT & Reconnaissance Tools**  | [FortiGate ASN Search](https://github.com/turagik/fortigate-asn-search)     |
 
-### Programming Languages
-- **Python**: Data analysis, scripting, and cybersecurity automation.
-- **C**: System-level programming and performance-critical applications.
-- **Java**: Object-oriented programming and software development.
-- **C#**: Game development and software engineering fundamentals.
-- **TypeScript/Node.js**: Building scalable web applications.
-- **HTML/CSS/JavaScript**: Front-end development.
-- **SQL**: Database querying and management.
-
-Currently building GitHub projects to showcase expertise in these languages.
-
+### Technical Stack
+* **Languages:** Python (FastAPI), Java, SQL (PostgreSQL), JavaScript (HTMX), HTML/CSS (Tailwind).
+* **Security & AI:** nmap, SIEM (Splunk, ELK), DSPM, LLM Integration (Gemini/OpenAI), Vulnerability Management (Trivy).
+* **Cloud & DevOps:** Docker, Docker Compose, Azure, Git, Linux/Unix.
 
 ## Tools
 
-### Network  
+### Security & Analysis
 <div> 
-<a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a> 
-<a href="https://www.tcpdump.org/" target="_blank"><img src="https://img.shields.io/badge/-tcpdump-005571?&style=for-the-badge&logo=Tcpdump&logoColor=white" /></a>
-<a href="https://suricata.io/" target="_blank"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /></a> 
-<a href="https://zeek.org/" target="_blank"><img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /></a> 
+<a href="#"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Nmap-4F5D95?&style=for-the-badge&logo=Nmap&logoColor=white" /></a>
 </div>
 
-### Endpoint  
+### Infrastructure & Cloud
 <div> 
-<a href="https://www.microsoft.com/en-us/security/business/threat-protection/microsoft-defender-endpoint" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a> 
-<a href="https://www.velocidex.com/velociraptor/" target="_blank"><img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" /></a> 
-</div>
-
-### SIEM  
-<div> 
-<a href="https://azure.microsoft.com/en-us/products/microsoft-sentinel/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a> 
-<a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a> 
-<a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a> 
-</div>
-
-### Cloud  
-<div> 
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /></a> 
+<a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=FastAPI&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /></a>
 </div>
 
 ## Experience
 
 ### Research and Technology Analyst Intern @ K logix
-- _June 2025 - Present_
-- Research marketspaces in cybersecurity softwares and conduct evaluations on customer behalf to best select a product
-- Created a list of 150+ requirements for DSPM products, and evaluated 6 vendors against said requirements
-- Currently working on creating AI education for members of K logix and customers to better understand AI in cybersecurity
-- Currently working on going back through existing data for marketspaces and evaluating where AI has been used and where it is likely to go in the near future
+*June 2025 – Present*
+* Researching marketspaces in cybersecurity softwares and conducting evaluations on customer behalf to best select a product.
+* Created a list of 150+ requirements for DSPM products and evaluated 6 vendors against said requirements.
+* Developing an AI educational curriculum for internal teams and customers to facilitate secure AI adoption.
+* Analyzing historical market data to project the trajectory of AI integration within cybersecurity product landscapes.
 
-## Projects
+## Featured Projects
 
-### Home Lab  
-- **Description**: A cybersecurity-focused lab environment designed for SIEM and network traffic monitoring.  
-- **Skills**: SIEM analysis, network traffic monitoring, and attack detection.  
-- **GitHub**: [Home Lab](https://github.com/TuragIk/Home-Lab/)
+### [VulnBuddy](https://github.com/turagik/VulnBuddy)
+* Built a full-stack security platform using **FastAPI** and **PostgreSQL** to automate **Trivy** scan ingestion.
+* Integrated **Google Gemini AI** to provide automated CVE analysis and actionable remediation plans.
+* Developed a reactive, containerized dashboard with **HTMX** and **Docker** for real-time security metrics.
 
-### FortiGate ASN Search  
-- **Description**: A browser-based tool to search leaked FortiGate firewall configurations by ASN. Created to help organizations quickly determine if they were affected.  
-- **Skills**: Browser-based security tools, JavaScript programming, and data filtering.  
-- **GitHub**: [FortiGate ASN Search](https://github.com/TuragIk/fortigate-asn-search)  
-- **Demo**: [Live Demo](https://turagik.github.io/fortigate-asn-search/)
+### [Home Lab](https://github.com/turagik/Home-Lab)
+* Built a cybersecurity-focused environment for SIEM and network traffic monitoring.
+* Implemented attack simulations and analyzed real-time log data for event correlation.
+* Strengthened understanding of network analysis workflows.
 
-### NeetCode 150 – Daily Practice & Feynman Explanations  
-- **Description**: A repository tracking my daily progress through the NeetCode 150 problems, focusing on data structures, algorithms, and clear Feynman-style explanations for each solution. Designed to build a deep understanding of core concepts while maintaining coding consistency.  
-- **Skills**: Python, Algorithms, Data Structures, Problem Solving, Technical Communication  
-- **GitHub**: [NeetCode 150 Solutions](https://github.com/TuragIk/neetcode-150-solutions)
+### [FortiGate ASN Search](https://github.com/turagik/fortigate-asn-search)
+* Developed a browser-based tool to identify exposed FortiGate configurations by ASN.
+* Designed frontend in JavaScript to improve accessibility and filtering functionality.
 
 ## Research
 
@@ -92,14 +71,15 @@ Currently building GitHub projects to showcase expertise in these languages.
 
 ### Threats and Defenses of Backdoor Attacks in Machine Learning
 - **Description**: Collaborated with a friend to create a survey paper of the threats and defenses of backdoor attacks in the field of machine learning
-- **Skills**: Research, Machine Learning, Collaboration
+- **Skills**: Research, Machine Learning, Collaboration## Certifications
 - **GitHub**: [Threats and Defenses of Backdoor Attacks in Machine Learning](https://github.com/roheetyeet/backdoor-attacks-defenses-survey)
 - **Research Paper**: [View the paper (PDF)](https://drive.google.com/file/d/1Kg4EjXJtlodbsPLTIkcdTLqTY3EsOfGj/view)
 
   
 ## Certifications
 
-- **Career Essentials in Cybersecurity by Microsoft and LinkedIn**: Fundamentals of network security, threat management, and incident response.
-- **Foundational C# with Microsoft**: Basics of C#, including OOP, data structures, and algorithms.
-- **Microsoft Cybersecurity Analyst Professional Certificate**: Comprehensive knowledge of security frameworks and tools, including penetration testing.
-- **Upcoming**: Microsoft SC-900 Security, Compliance, and Identity Fundamentals Exam.
+* **Cyera DSPM Architect**: Implement and maintain DSPM for an AI ready security program.
+* **Cyera Certified Security for AI Fundamentals**: Risk management and security frameworks for LLM-based applications.
+* **Microsoft Cybersecurity Analyst Professional Certificate**: Comprehensive security frameworks and penetration testing skills.
+* **Career Essentials in Cybersecurity by Microsoft and LinkedIn**: Network security fundamentals, threat management, and incident response.
+* **Foundational C# with Microsoft**: Core OOP, data structures, and algorithm design.
