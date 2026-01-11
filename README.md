@@ -10,12 +10,13 @@ I am a senior computer science major at UMass Amherst with a reserved seat to th
 |-----------------------------------------|----------------------------------------------------------------------------------------------|
 | **AI-Powered CVE Analysis** | [VulnBuddy](https://github.com/turagik/VulnBuddy)                            |
 | **SIEM & Log Correlation** | [Home Lab](https://github.com/turagik/Home-Lab)                           |
+| **Go Concurrency & Networking** | [Site Status Checker](https://github.com/TuragIk/SiteStatusChecker) |
 | **Automated Vulnerability Scanning**  | [VulnBuddy](https://github.com/turagik/VulnBuddy)                                |
 | **Network Traffic Monitoring** | [Network Analysis Lab](https://github.com/TuragIk/network-analysis-project)                                |
 | **OSINT & Reconnaissance Tools**  | [FortiGate ASN Search](https://github.com/turagik/fortigate-asn-search)     |
 
 ### Technical Stack
-* **Languages:** Python (FastAPI), Java, SQL (PostgreSQL), JavaScript (HTMX), HTML/CSS (Tailwind).
+* **Languages:** Python (FastAPI), Go, Java, SQL (PostgreSQL), JavaScript (HTMX), HTML/CSS (Tailwind).
 * **Security & AI:** nmap, SIEM (Splunk, ELK), DSPM, LLM Integration (Gemini/OpenAI), Vulnerability Management (Trivy).
 * **Cloud & DevOps:** Docker, Docker Compose, Azure, Git, Linux/Unix.
 
@@ -31,6 +32,7 @@ I am a senior computer science major at UMass Amherst with a reserved seat to th
 
 ### Infrastructure & Cloud
 <div> 
+<a href="#"><img src="https://img.shields.io/badge/-Go-00ADD8?&style=for-the-badge&logo=go&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=FastAPI&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" /></a>
@@ -52,6 +54,11 @@ I am a senior computer science major at UMass Amherst with a reserved seat to th
 * Built a full-stack security platform using **FastAPI** and **PostgreSQL** to automate **Trivy** scan ingestion.
 * Integrated **Google Gemini AI** to provide automated CVE analysis and actionable remediation plans.
 * Developed a reactive, containerized dashboard with **HTMX** and **Docker** for real-time security metrics.
+
+### [Site Status Checker](https://github.com/TuragIk/SiteStatusChecker)
+* Engineered a high-performance CLI tool in **Go** to monitor website availability and latency.
+* Implemented **Worker Pools** and **Go Channels** to handle concurrent HTTP requests efficiently.
+* Designed modular input handling to support CLI arguments, CSV file ingestion, and Unix pipe streams.
 
 ### [Home Lab](https://github.com/turagik/Home-Lab)
 * Built a cybersecurity-focused environment for SIEM and network traffic monitoring.
