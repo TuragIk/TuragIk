@@ -3,27 +3,35 @@
 
 I am a senior computer science major at UMass Amherst with a reserved seat to the 4+1 M.S. in Computer Science program starting Fall 2026. My work focuses on the intersection of Cybersecurity and AI, ranging from market research to building automated security platforms.
 
+## Contact
+If you'd like to contact me, please email me at:
+```bash
+turagikbal26@gmail.com
+```
+From there, we can discuss more forms of communication.
+
 ## Skills & Projects
 
 | Skill                                   | Associated Project                                                                           |
 |-----------------------------------------|----------------------------------------------------------------------------------------------|
-| **AI-Powered CVE Analysis** | [VulnBuddy](https://github.com/turagik/VulnBuddy)                                           |
+| **Static Analysis & Secret Detection** | [Rusty-Warden](https://github.com/turagik/rusty-warden)                                      |
+| **AI-Powered CVE Analysis** | [VulnBuddy](https://github.com/turagik/VulnBuddy)                                            |
 | **SIEM & Log Correlation** | [Home Lab](https://github.com/turagik/Home-Lab)                                              |
 | **Go Concurrency & Networking** | [Site Status Checker](https://github.com/TuragIk/SiteStatusChecker)                          |
 | **System Utilities & File I/O** | [Word Count Tool](https://github.com/TuragIk/coding_challenge_word_count)                    |
-| **Automated Vulnerability Scanning** | [VulnBuddy](https://github.com/turagik/VulnBuddy)                                           |
+| **Automated Vulnerability Scanning** | [VulnBuddy](https://github.com/turagik/VulnBuddy)                                            |
 | **Network Traffic Monitoring** | [Network Analysis Lab](https://github.com/TuragIk/network-analysis-project)                  |
 | **OSINT & Reconnaissance Tools** | [FortiGate ASN Search](https://github.com/turagik/fortigate-asn-search)                      |
 
 ### Technical Stack
-* **Languages:** Python (FastAPI), Go, Java, SQL (PostgreSQL), JavaScript (HTMX), HTML/CSS (Tailwind).
+* **Languages:** Rust, Python (FastAPI), Go, Java, SQL (PostgreSQL), JavaScript (HTMX), HTML/CSS (Tailwind).
 * **Security & AI:** nmap, SIEM (Splunk, ELK), DSPM, LLM Integration (Gemini/OpenAI), Vulnerability Management (Trivy).
 * **Cloud & DevOps:** Docker, Docker Compose, Azure, Git, Linux/Unix.
 
 ## Tools
 
 ### Security & Analysis
-<div> 
+<div>
 <a href="#"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
@@ -31,7 +39,8 @@ I am a senior computer science major at UMass Amherst with a reserved seat to th
 </div>
 
 ### Infrastructure & Cloud
-<div> 
+<div>
+<a href="#"><img src="https://img.shields.io/badge/-Rust-000000?&style=for-the-badge&logo=rust&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Go-00ADD8?&style=for-the-badge&logo=go&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=FastAPI&logoColor=white" /></a>
@@ -49,6 +58,11 @@ I am a senior computer science major at UMass Amherst with a reserved seat to th
 * Analyzing historical market data to project the trajectory of AI integration within cybersecurity product landscapes.
 
 ## Featured Projects
+
+### [Rusty-Warden](https://github.com/turagik/rusty-warden)
+* Engineered a high-performance static analysis tool in **Rust** to detect hardcoded secrets and security vulnerabilities.
+* Implemented recursive directory traversal and **Regex** pattern matching to identify AWS keys, passwords, and private tokens.
+* Designed for efficiency and safety with **Smart Filtering** (ignoring `.git` and binary files) and structured **JSON output** for CI/CD integration.
 
 ### [Word Count Tool (ccwc)](https://github.com/TuragIk/coding_challenge_word_count)
 * Recreated the Unix `wc` utility in **Go** to handle large-scale text processing.
